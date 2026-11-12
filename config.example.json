@@ -1,0 +1,7 @@
+{
+  "base_url": "https://mail.example.com",
+  "password": "your-site-password",
+  "address": "",
+  "jwt": "",
+  "register_password": ""
+}
